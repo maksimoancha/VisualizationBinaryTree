@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27703.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VilualizationBinaryTree", "VilualizationBinaryTree\VilualizationBinaryTree.csproj", "{8FE046E8-7AF7-4706-9013-42F5F2A78721}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VisualizationBinaryTree", "VilualizationBinaryTree\VisualizationBinaryTree.csproj", "{8FE046E8-7AF7-4706-9013-42F5F2A78721}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
